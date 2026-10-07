@@ -24,3 +24,5 @@ A security incident compromised some machines. I had to investigate using the `o
 
 ##  Tools
 MariaDB, SQL
+## 📸 Lab Result
+![Lab Proof](Screenshot%202026-10-08%20015211.png)
